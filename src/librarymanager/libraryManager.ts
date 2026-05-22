@@ -4,7 +4,6 @@ import * as fs from "fs";
 import * as axios from "axios";
 import AdmZip from "adm-zip";
 import { String } from "typescript-string-operations";
-import * as _ from "lodash";
 import globby from 'globby';
 import * as fs_extra from "fs-extra";
 import trash from "trash";

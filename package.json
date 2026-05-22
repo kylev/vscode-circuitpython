@@ -133,7 +133,7 @@
                 {
                     "command": "circuitpython.clearSerialMonitor",
                     "group": "5_clear",
-                    "when": "terminalFocus" 
+                    "when": "terminalFocus"
                 }
             ]
         }
@@ -158,7 +158,6 @@
     "@electron/rebuild": "^4.0.1",
     "@mapbox/node-pre-gyp": "^2.0.0",
     "@types/drivelist": "6.4.4",
-    "@types/lodash": "^4.17.18",
     "@types/mocha": "^10.0.10",
     "@types/node": "^24.0.3",
     "@types/serialport": "^8.0.5S",
@@ -191,7 +190,6 @@
     "drivelist": "^12.0.2",
     "fs-extra": "^11.3.0",
     "globby": "^11.1.0",
-    "lodash": "^4.17.21",
     "semver": "^7.7.2",
     "serialport": "^13.0.0",
     "shelljs": "^0.10.0",
