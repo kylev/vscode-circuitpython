@@ -145,7 +145,7 @@
     "compile": "tsc -b ./",
     "lint": "eslint -c .eslintrc.json --ext .ts src",
     "watch": "tsc -watch -p ./",
-    "pretest": "npm run compile && yarn npm lint",
+    "pretest": "npm run compile && npm run lint",
     "test": "node ./out/test/runTest.js",
     "electron-rebuild": "electron-rebuild -v 36.5.0",
     "build-bindings": "node ./scripts/build-bindings.js",
