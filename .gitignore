@@ -8,6 +8,7 @@ circuitpython
 .mypy_cache/
 circup*
 .env/
+.venv/
 /bindings*
 /stubs
 /boards
